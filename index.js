@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Windy Smp: http://localhost:${port}`);
+  console.log(`🔗 Listening to PvP Legend's: http://localhost:${port}`);
   console.log(`🔗 Powered By Mr_MuditGamerX`);
 });
 
 
-const statusMessages = ["Watching Windy Smp","Playing Minecraft"];
+const statusMessages = ["Watching PvP Legend's","Playing Minecraft"];
 
 
 let currentIndex = 0;

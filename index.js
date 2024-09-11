@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to PvP Legend's: http://localhost:${port}`);
+  console.log(`🔗 Listening to GamerX Bazaar: http://localhost:${port}`);
   console.log(`🔗 Powered By Mr_MuditGamerX`);
 });
 
 
-const statusMessages = ["Watching PvP Legend's","Playing Minecraft"];
+const statusMessages = ["Watching GamerX Bazaar","100% LEGIT STORE"];
 
 
 let currentIndex = 0;

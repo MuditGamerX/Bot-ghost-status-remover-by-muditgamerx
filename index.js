@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Galaxy Bazaar: http://localhost:${port}`);
+  console.log(`🔗 Listening to Swift Store: http://localhost:${port}`);
   console.log(`🔗 Powered By Mr_MuditGamerX`);
 });
 
 
-const statusMessages = ["Watching Galaxy Bazaar","100% LEGIT STORE"];
+const statusMessages = ["Watching Swift Store","Doing Payout's"];
 
 
 let currentIndex = 0;

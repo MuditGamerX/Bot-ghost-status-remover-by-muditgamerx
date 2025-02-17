@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Royal RewardZ","Doing Payout's"];
+const statusMessages = ["Watching GamerX Hometown","Subscribe!!"];
 
 
 let currentIndex = 0;
